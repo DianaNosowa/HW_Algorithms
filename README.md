@@ -1,5 +1,4 @@
-Tatiana Shilyaeva
-Diana Nosova
+Tatiana Shilyaeva & Diana Nosova
 
 Task 1:
 <img width="1440" height="614" alt="Task 1" src="https://github.com/user-attachments/assets/f3548628-c32f-4723-8207-0d0fad29bf59" />
